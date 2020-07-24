@@ -1,3 +1,59 @@
+.ho-body input{
+  width: 22em;
+  height: 2.5em
+
+}
+
+.two-divs{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap:
+}
+.ho-body h1{
+  font-family: 'Life Savers', serif;
+  display: grid;
+  position: relative;
+  justify-content: center;
+  color: #2B4E80;
+
+
+}
+
+
+.main-box{
+  display: grid;
+  position: relative;
+  justify-content: center;
+  background-color:#E6ECF4;
+  width: 20em
+
+}
+.main-box img{
+  height:6em;
+
+
+
+
+
+}
+
+.woody-pic img{
+  height: 20em;
+  display: grid;
+  position: relative;
+
+}
+
+
+
+
+
+
+
+
+
+
+
 /* font-family: 'Open Sans', sans-serif; */
 /* font-family: 'Life Savers', serif; */
 
