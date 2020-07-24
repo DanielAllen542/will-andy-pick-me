@@ -1,13 +1,22 @@
 .ho-body input{
   width: 22em;
-  height: 2.5em
+  height: 2.5em;
+  margin-top: 1em;
+
+}
+.answer-button{
+  height:2.5em;
+  background-color:#607AA0;
+  color:#ffff;
 
 }
 
 .two-divs{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap:
+  grid-gap: 2em;
+  position: absolute;
+  right: 4em
 }
 .ho-body h1{
   font-family: 'Life Savers', serif;
@@ -25,18 +34,33 @@
   position: relative;
   justify-content: center;
   background-color:#E6ECF4;
-  width: 20em
+  width: 21em;
+  height: auto;
 
 }
 .main-box img{
   height:6em;
+  position: relative;
+  right: -6em
 
 
 
 
 
 }
+.clear-button{
+  width: 4em;
+  height: 2em;
+  position:relative;
+  right: -18em;
+  bottom: -1em;
+  background-color: #D0CDCD;
+  color: #ffff
 
+
+
+
+}
 .woody-pic img{
   height: 20em;
   display: grid;
